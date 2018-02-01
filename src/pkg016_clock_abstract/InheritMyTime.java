@@ -1,7 +1,8 @@
 package pkg016_clock_abstract;
 
 /**
- *<h3>Created to inherit twice</h3>
+ * <h3>Created to inherit twice</h3>
+ *
  * @author compsci
  * @version 1.0
  */
